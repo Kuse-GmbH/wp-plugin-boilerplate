@@ -33,6 +33,7 @@ It's safe to activate the plugin at this point. Because the Boilerplate has no r
 If you don't want to do search & replace manually, you can download the generator script into wp-content/plugins & execute it.
 ```bash
 wget -O wpp https://raw.githubusercontent.com/xitara/wp-plugin-boilerplate/master/wpp && chmod 755 wpp
+./wpp My Cool Plugin
 ```
 
 ## WordPress.org Preparation
